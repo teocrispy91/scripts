@@ -1,5 +1,4 @@
 #!/bin/bash
-echo "nee"
 echo "enter the value"
 read n
 echo "enter the 1st number"
