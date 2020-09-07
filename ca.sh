@@ -1,4 +1,5 @@
 #!/bin/bash
+echo "i am the answer"
 echo "enter the value"
 read n
 echo "enter the 1st number"
